@@ -1,0 +1,15 @@
+/Users/danilausakov/Desktop/Seminar_04/Seminar_04/Task_27/obj/Debug/net7.0/Task_27.csproj.AssemblyReference.cache
+/Users/danilausakov/Desktop/Seminar_04/Seminar_04/Task_27/obj/Debug/net7.0/Task_27.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danilausakov/Desktop/Seminar_04/Seminar_04/Task_27/obj/Debug/net7.0/Task_27.AssemblyInfoInputs.cache
+/Users/danilausakov/Desktop/Seminar_04/Seminar_04/Task_27/obj/Debug/net7.0/Task_27.AssemblyInfo.cs
+/Users/danilausakov/Desktop/Seminar_04/Seminar_04/Task_27/obj/Debug/net7.0/Task_27.csproj.CoreCompileInputs.cache
+/Users/danilausakov/Desktop/Seminar_04/Seminar_04/Task_27/bin/Debug/net7.0/Task_27
+/Users/danilausakov/Desktop/Seminar_04/Seminar_04/Task_27/bin/Debug/net7.0/Task_27.deps.json
+/Users/danilausakov/Desktop/Seminar_04/Seminar_04/Task_27/bin/Debug/net7.0/Task_27.runtimeconfig.json
+/Users/danilausakov/Desktop/Seminar_04/Seminar_04/Task_27/bin/Debug/net7.0/Task_27.dll
+/Users/danilausakov/Desktop/Seminar_04/Seminar_04/Task_27/bin/Debug/net7.0/Task_27.pdb
+/Users/danilausakov/Desktop/Seminar_04/Seminar_04/Task_27/obj/Debug/net7.0/Task_27.dll
+/Users/danilausakov/Desktop/Seminar_04/Seminar_04/Task_27/obj/Debug/net7.0/refint/Task_27.dll
+/Users/danilausakov/Desktop/Seminar_04/Seminar_04/Task_27/obj/Debug/net7.0/Task_27.pdb
+/Users/danilausakov/Desktop/Seminar_04/Seminar_04/Task_27/obj/Debug/net7.0/Task_27.genruntimeconfig.cache
+/Users/danilausakov/Desktop/Seminar_04/Seminar_04/Task_27/obj/Debug/net7.0/ref/Task_27.dll
